@@ -13,7 +13,7 @@ then
         oh=$oh" "$a
     done
     git commit -m "$oh"
-else
+else #매개 변수가 없는 경우 update 내용으로 commit 되도록 하였습니다.
     git commit -m "update"
 fi
 git push origin master
