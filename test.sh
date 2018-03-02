@@ -1,5 +1,8 @@
 #!/bin/bash
-if [ "$#" -eq 1 ]; then # 1일때
-    echo "You must enter exactly 2 command line arguments"
-fi
-"$1"
+# oh=""
+for a
+do
+    echo $a
+    oh=$oh" "$a
+done
+echo $oh
