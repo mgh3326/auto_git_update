@@ -5,7 +5,7 @@ if [ "$#" -eq 1 ]; then # 매개 변수가 한개 일때 (띄어쓰기가 없는
 
     git commit -m "$1"
 
-elif [ "$#" -gt 1  ]
+elif [ "$#" -gt 1  ]# 띄어쓰기 있는 경우
 then
         for a
     do
