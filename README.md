@@ -1,9 +1,12 @@
-# github master 자동으로 올려주기
+## auto github update introduce
 > github master 자동으로 올려주기
 
+아래 다운로드 바로가기 누르면 my.sh 다운 받아서 사용할수 있게 해뒀어요
+
+[다운로드 바로가기](https://github.com/mgh3326/auto_git_update/releases)
+
 <hr>
-먼저 git clone https://github.com/mgh3326/auto_git_update 으로 다운로드 해주시고서
-<br>
+
 my.sh 파일을 remote 저장소가 지정된 git 폴더로 이동 시킨후에 git bash 에서 ./my.sh (커밋 내용) 을 실행하시면 됩니다.<br>
 실행할 경우<br>
 git pull origin master<br>
@@ -17,7 +20,8 @@ git push origin master 를 진행하게 됩니다.
 <hr>
 ## Release History
 
-
+* 2018/03/04
+    * Release verseion 1.0 update
 * 2018/03/03
     * README update
 * 2018/03/02
