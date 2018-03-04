@@ -13,11 +13,16 @@ git pull origin master<br>
 git add *<br>
 git commit (커밋 내용)<br>
 git push origin master 를 진행하게 됩니다.
+
 <br>
+
 커밋 내용에 ""은 필요 없으며, 공백이 들어가도 무방합니다.
+
 <br>
+
 감사합니다.
 <hr>
+
 ## Release History
 
 * 2018/03/04
