@@ -24,7 +24,8 @@ git push origin master 를 진행하게 됩니다.
 <hr>
 
 ## Release History
-
+* 2018/05/21
+    * Desktop update
 * 2018/03/04
     * Release verseion 1.0 update
 * 2018/03/03
